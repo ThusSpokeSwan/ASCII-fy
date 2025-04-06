@@ -8,6 +8,9 @@
 
 ## 📸 Sample Output
 
+| Original Image | ASCII Output |
+|----------------|--------------|
+| ![Input](Samples/Input.jpg) | ![Output](Samples/Output.png) |
 
 ---
 
